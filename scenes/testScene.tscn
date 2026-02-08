@@ -529,8 +529,10 @@ lines = Array[String](["Welcome to Michael Sadler", "you will find the School of
 position = Vector2(667, -424)
 lines = Array[String](["Hey!", "Welcome to Parkinson and the University of Leeds!", "Use WASD to move, E to attack and F to interact", "explore the campus with this game!"])
 
-[node name="Npc7" parent="." unique_id=866773839 instance=ExtResource("10_t12nq")]
+[node name="Chem_npc" parent="." unique_id=866773839 instance=ExtResource("10_t12nq")]
 position = Vector2(550, -988)
+lines = Array[String](["Hey!", "Welcome to Chemisty", "you will find computer clusters and lecture theatres here"])
 
-[node name="Npc8" parent="." unique_id=1094726904 instance=ExtResource("10_t12nq")]
+[node name="Bragg_npc" parent="." unique_id=1094726904 instance=ExtResource("10_t12nq")]
 position = Vector2(186, -1472)
+lines = Array[String](["Welcome to Bragg!", "this is the school of computer science and physics building", "you will find many study spaces and computer labs here"])
