@@ -26,7 +26,7 @@ var move_direction: Vector2 = Vector2.ZERO
 
 var enemy_att_range = false
 var enemy_att_cooldown = true
-var health = 150
+var health = 100
 var player_alive = true
 var attacking = false
 
