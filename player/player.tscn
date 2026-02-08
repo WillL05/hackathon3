@@ -359,6 +359,7 @@ position = Vector2(-0.75, -6.25)
 shape = SubResource("CircleShape2D_rkbax")
 
 [node name="cooldown" type="Timer" parent="." unique_id=921520374]
+wait_time = 0.9
 
 [node name="deal_attack_timer" type="Timer" parent="." unique_id=1054827362]
 wait_time = 0.3
