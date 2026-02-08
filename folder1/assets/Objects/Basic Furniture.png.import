@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://8qvkq8vcdbia"
-path="res://.godot/imported/University_of_Leeds,_main_campus_map.jpg-eeeaa3c3619e9a06d1bdb9096a0cfb96.ctex"
+uid="uid://dc2utlinh2ydi"
+path="res://.godot/imported/Basic Furniture.png-295fe62dbddba21720b5d3c0588644ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Tilesets/University_of_Leeds,_main_campus_map.jpg"
-dest_files=["res://.godot/imported/University_of_Leeds,_main_campus_map.jpg-eeeaa3c3619e9a06d1bdb9096a0cfb96.ctex"]
+source_file="res://folder1/assets/Objects/Basic Furniture.png"
+dest_files=["res://.godot/imported/Basic Furniture.png-295fe62dbddba21720b5d3c0588644ca.ctex"]
 
 [params]
 

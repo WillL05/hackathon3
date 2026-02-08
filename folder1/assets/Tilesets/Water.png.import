@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bf6s4kee3qpjq"
-path="res://.godot/imported/Simple_Milk_and_grass_item.png-4e092aabbaa30468e7c6101df88cc6c1.ctex"
+uid="uid://8qwvwldyn1m6"
+path="res://.godot/imported/Water.png-46bf7200ded1cf8404846de995c8df98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Objects/Simple_Milk_and_grass_item.png"
-dest_files=["res://.godot/imported/Simple_Milk_and_grass_item.png-4e092aabbaa30468e7c6101df88cc6c1.ctex"]
+source_file="res://folder1/assets/Tilesets/Water.png"
+dest_files=["res://.godot/imported/Water.png-46bf7200ded1cf8404846de995c8df98.ctex"]
 
 [params]
 

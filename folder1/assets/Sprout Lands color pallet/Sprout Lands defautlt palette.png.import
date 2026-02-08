@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c3rmglpkxyd3g"
-path="res://.godot/imported/Basic Grass Biom things 1.png-09a6fcc09ffb0aac5c415ebbb2255053.ctex"
+uid="uid://ub5ylf1ooi0u"
+path="res://.godot/imported/Sprout Lands defautlt palette.png-f63c4ce77ad9f5ab5b1a955b5d536f67.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Objects/Basic Grass Biom things 1.png"
-dest_files=["res://.godot/imported/Basic Grass Biom things 1.png-09a6fcc09ffb0aac5c415ebbb2255053.ctex"]
+source_file="res://folder1/assets/Sprout Lands color pallet/Sprout Lands defautlt palette.png"
+dest_files=["res://.godot/imported/Sprout Lands defautlt palette.png-f63c4ce77ad9f5ab5b1a955b5d536f67.ctex"]
 
 [params]
 

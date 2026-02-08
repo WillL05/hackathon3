@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://8qwvwldyn1m6"
-path="res://.godot/imported/Water.png-6a72211bffae8d4efd23965c1cb93aad.ctex"
+uid="uid://cliaa8vjqn33i"
+path="res://.godot/imported/Wooden_House_Roof_Tilset.png-0965aec9a6d08e7564a5c291a27648c6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Tilesets/Water.png"
-dest_files=["res://.godot/imported/Water.png-6a72211bffae8d4efd23965c1cb93aad.ctex"]
+source_file="res://folder1/assets/Tilesets/Wooden_House_Roof_Tilset.png"
+dest_files=["res://.godot/imported/Wooden_House_Roof_Tilset.png-0965aec9a6d08e7564a5c291a27648c6.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b706n8m3eocl4"
-path="res://.godot/imported/Sprout Lands defautlt palette snip.PNG-dbc6c4b18f4b3080ae1de5ecc21c8977.ctex"
+uid="uid://bpo8yy3y4n32l"
+path="res://.godot/imported/Fences.png-59110e9b2e93a7996e82027d05e53a44.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Sprout Lands color pallet/Sprout Lands defautlt palette snip.PNG"
-dest_files=["res://.godot/imported/Sprout Lands defautlt palette snip.PNG-dbc6c4b18f4b3080ae1de5ecc21c8977.ctex"]
+source_file="res://folder1/assets/Fences.png"
+dest_files=["res://.godot/imported/Fences.png-59110e9b2e93a7996e82027d05e53a44.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://us0p1wjatlu2"
-path="res://.godot/imported/Bitmask references 1.png-484b34cb79b564373d0c531492ec93cc.ctex"
+uid="uid://bmk3tglr41hew"
+path="res://.godot/imported/Paths.png-a219f802f7f5cbb3d0d2da8a5e56c8a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Tilesets/Bitmask references 1.png"
-dest_files=["res://.godot/imported/Bitmask references 1.png-484b34cb79b564373d0c531492ec93cc.ctex"]
+source_file="res://folder1/assets/Objects/Paths.png"
+dest_files=["res://.godot/imported/Paths.png-a219f802f7f5cbb3d0d2da8a5e56c8a1.ctex"]
 
 [params]
 

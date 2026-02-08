@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpo8yy3y4n32l"
-path="res://.godot/imported/Fences.png-0bacd3abb1523deaa19e106cba1e4c58.ctex"
+uid="uid://dc6qb2ctxnb28"
+path="res://.godot/imported/neo_zero_tiles_and_buildings_01.png-47be2c99eebdce410cdb4fb2e611b965.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Fences.png"
-dest_files=["res://.godot/imported/Fences.png-0bacd3abb1523deaa19e106cba1e4c58.ctex"]
+source_file="res://folder1/assets/Tilesets/neo_zero_tiles_and_buildings_01.png"
+dest_files=["res://.godot/imported/neo_zero_tiles_and_buildings_01.png-47be2c99eebdce410cdb4fb2e611b965.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dc2utlinh2ydi"
-path="res://.godot/imported/Basic Furniture.png-7f1d745f051900fc58e9589a29a4d0ed.ctex"
+uid="uid://us0p1wjatlu2"
+path="res://.godot/imported/Bitmask references 1.png-75b9305692ba37edd4dc19387d0ffa1a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Objects/Basic Furniture.png"
-dest_files=["res://.godot/imported/Basic Furniture.png-7f1d745f051900fc58e9589a29a4d0ed.ctex"]
+source_file="res://folder1/assets/Tilesets/Bitmask references 1.png"
+dest_files=["res://.godot/imported/Bitmask references 1.png-75b9305692ba37edd4dc19387d0ffa1a.ctex"]
 
 [params]
 

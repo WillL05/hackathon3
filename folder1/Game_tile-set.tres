@@ -1,6 +1,6 @@
 [gd_resource type="TileSet" format=3 uid="uid://dytlc03kxn40o"]
 
-[ext_resource type="Texture2D" uid="uid://dc6qb2ctxnb28" path="res://ts_lara/assets/Tilesets/neo_zero_tiles_and_buildings_01.png" id="1_ixu1s"]
+[ext_resource type="Texture2D" uid="uid://dc6qb2ctxnb28" path="res://folder1/assets/Tilesets/neo_zero_tiles_and_buildings_01.png" id="1_ixu1s"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_g0g0e"]
 texture = ExtResource("1_ixu1s")

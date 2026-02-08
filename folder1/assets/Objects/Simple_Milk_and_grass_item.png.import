@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dc6qb2ctxnb28"
-path="res://.godot/imported/neo_zero_tiles_and_buildings_01.png-682397ac0aa6b2aaaf0eff6a8b31e6e2.ctex"
+uid="uid://bf6s4kee3qpjq"
+path="res://.godot/imported/Simple_Milk_and_grass_item.png-28731af6e52d27b2e03e0b96aa16b6f4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Tilesets/neo_zero_tiles_and_buildings_01.png"
-dest_files=["res://.godot/imported/neo_zero_tiles_and_buildings_01.png-682397ac0aa6b2aaaf0eff6a8b31e6e2.ctex"]
+source_file="res://folder1/assets/Objects/Simple_Milk_and_grass_item.png"
+dest_files=["res://.godot/imported/Simple_Milk_and_grass_item.png-28731af6e52d27b2e03e0b96aa16b6f4.ctex"]
 
 [params]
 

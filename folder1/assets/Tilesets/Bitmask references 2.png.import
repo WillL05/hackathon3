@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wr7xpfjlm4b7"
-path="res://.godot/imported/Grass.png-92408f5751baa2bd2cf096aa581c8be5.ctex"
+uid="uid://bwxuj2mq1kef8"
+path="res://.godot/imported/Bitmask references 2.png-524f9ae524314234084ef6993e71e333.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Tilesets/Grass.png"
-dest_files=["res://.godot/imported/Grass.png-92408f5751baa2bd2cf096aa581c8be5.ctex"]
+source_file="res://folder1/assets/Tilesets/Bitmask references 2.png"
+dest_files=["res://.godot/imported/Bitmask references 2.png-524f9ae524314234084ef6993e71e333.ctex"]
 
 [params]
 

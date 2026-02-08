@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwxuj2mq1kef8"
-path="res://.godot/imported/Bitmask references 2.png-4e293d74d34d8492593f1a45c8c6affd.ctex"
+uid="uid://8qvkq8vcdbia"
+path="res://.godot/imported/University_of_Leeds,_main_campus_map.jpg-40d872baf5b8da14e40a78d5c2e470e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://ts_lara/assets/Tilesets/Bitmask references 2.png"
-dest_files=["res://.godot/imported/Bitmask references 2.png-4e293d74d34d8492593f1a45c8c6affd.ctex"]
+source_file="res://folder1/assets/Tilesets/University_of_Leeds,_main_campus_map.jpg"
+dest_files=["res://.godot/imported/University_of_Leeds,_main_campus_map.jpg-40d872baf5b8da14e40a78d5c2e470e2.ctex"]
 
 [params]
 
