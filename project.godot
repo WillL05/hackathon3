@@ -19,6 +19,11 @@ config/icon="res://icon.svg"
 
 Global="*uid://dkcavhf8qo4e1"
 InteractionManager="*uid://cwk8tgrf4knwm"
+DialogManager="*uid://di8vtcx3q1iy2"
+
+[global_group]
+
+player=""
 
 [input]
 
@@ -50,6 +55,11 @@ attack={
 interact={
 "deadzone": 0.2,
 "events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":70,"key_label":0,"unicode":102,"location":0,"echo":false,"script":null)
+]
+}
+advance_dialog={
+"deadzone": 0.2,
+"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":32,"key_label":0,"unicode":32,"location":0,"echo":false,"script":null)
 ]
 }
 

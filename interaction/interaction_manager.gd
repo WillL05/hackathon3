@@ -17,17 +17,24 @@ func unregister_area(area: InteractionArea):
 		active_areas.remove_at(index)
 		
 func _process(delta):
+	# SAFETY CHECK: If player doesn't exist, try to find them. 
+	# If we still can't find them, stop here so we don't crash.
+	if not player:
+		player = get_tree().get_first_node_in_group("player")
+		if not player: return
+
+	# The rest of your original logic
 	if active_areas.size() > 0 and can_interact:
 		active_areas.sort_custom(_sort_by_distance_to_player)
 		label.text = base_text + active_areas[0].action_name
 		label.global_position = active_areas[0].global_position
-		label.global_position.y =- 36
+		label.global_position.y -= 36  # Fixed the typo here too (changed =- to -=)
 		label.global_position.x -= label.size.x / 2
 		label.show()
 	else:
-		label.hide()		
+		label.hide()
 
-func _sort_by_distance_to_player(area1,area2:):
+func _sort_by_distance_to_player(area1,area2):
 	var area1_to_player = player.global_position.distance_to(area1.global_position)
 	var area2_to_player = player.global_position.distance_to(area2.global_position)
 	return area1_to_player < area2_to_player
