@@ -44,5 +44,15 @@ func _input(event):
 		if active_areas.size() > 0:
 			can_interact = false
 			label.hide()
+			
+			# OPTIONAL: Stop the player from moving
+			if player:
+				player.set_physics_process(false)
+			
 			await active_areas[0].interact.call()
+			
+			# Resume movement and allow interaction again
+			if player:
+				player.set_physics_process(true)
+			
 			can_interact = true

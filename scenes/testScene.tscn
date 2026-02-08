@@ -508,3 +508,29 @@ position = Vector2(744, 1051)
 
 [node name="enemy5" parent="." unique_id=1521116470 instance=ExtResource("9_7e18i")]
 position = Vector2(858, -1436)
+
+[node name="UnionNPC" parent="." unique_id=1581248309 instance=ExtResource("10_t12nq")]
+position = Vector2(-820, 386)
+lines = Array[String](["Hello!", "Welcome to LUU", "You can find everything you need through the day here"])
+
+[node name="EB_npc" parent="." unique_id=1594109408 instance=ExtResource("10_t12nq")]
+position = Vector2(-142, 847)
+lines = Array[String](["Hey there!", "Welcome to Edward Boyle", "you can do all your studying here"])
+
+[node name="Laidlaw_npc" parent="." unique_id=1410863125 instance=ExtResource("10_t12nq")]
+position = Vector2(1153, 299)
+lines = Array[String](["Hey!", "Welcome to Laidlaw ", "you can use the group study booths to study", "You  can also go to the Cafe Nero here"])
+
+[node name="RBLT_npc" parent="." unique_id=281351225 instance=ExtResource("10_t12nq")]
+position = Vector2(461, 104)
+lines = Array[String](["Welcome to Michael Sadler", "you will find the School of Languages here", "there is also a lecture theatre here"])
+
+[node name="Parkinson_npc" parent="." unique_id=1144104265 instance=ExtResource("10_t12nq")]
+position = Vector2(667, -424)
+lines = Array[String](["Hey!", "Welcome to Parkinson and the University of Leeds!", "Use WASD to move, E to attack and F to interact", "explore the campus with this game!"])
+
+[node name="Npc7" parent="." unique_id=866773839 instance=ExtResource("10_t12nq")]
+position = Vector2(550, -988)
+
+[node name="Npc8" parent="." unique_id=1094726904 instance=ExtResource("10_t12nq")]
+position = Vector2(186, -1472)

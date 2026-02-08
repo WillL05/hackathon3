@@ -3,7 +3,7 @@ extends Node2D
 
 @onready var interaction_area: InteractionArea = $InteractionArea
 
-const lines: Array[String] = [
+@export var lines: Array[String] = [
 	"hey"
 ]
 func _ready():
