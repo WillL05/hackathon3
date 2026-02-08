@@ -59,6 +59,9 @@ func deal_with_damage():
 			$take_damage_cooldown.start()
 			can_take_dmg = false
 			health -= 30
+			modulate = Color.RED
+			await get_tree().create_timer(0.1).timeout
+			modulate = Color.WHITE
 			print("slime took damage")
 			if health <= 0:
 				self.queue_free()

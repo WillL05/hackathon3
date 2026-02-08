@@ -26,7 +26,7 @@ var move_direction: Vector2 = Vector2.ZERO
 
 var enemy_att_range = false
 var enemy_att_cooldown = true
-var health = 100
+var health = 200
 var player_alive = true
 var attacking = false
 
@@ -38,6 +38,8 @@ func _physics_process(delta: float) -> void:
 			player_alive = false
 			health = 0 
 			print("player died")
+			await get_tree().create_timer(1.0).timeout
+			get_tree().change_scene_to_file("res://scenes/gameOver.tscn")
 	
 func movement_loop() -> void:
 	move_direction.x = int(Input.is_action_pressed("right")) - int(Input.is_action_pressed("left"))
@@ -100,6 +102,9 @@ func _on_player_hitbox_body_exited(body: Node2D) -> void:
 func enemy_attack():
 	if enemy_att_range and enemy_att_cooldown:
 		health -= 20
+		modulate = Color.RED
+		await get_tree().create_timer(0.1).timeout
+		modulate = Color.WHITE
 		enemy_att_cooldown = false
 		$cooldown.start()
 		print("player took damage")
