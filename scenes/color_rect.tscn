@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cq7i2bta1pm2x"]
+
+[node name="ColorRect" type="ColorRect" unique_id=1802270009]
+custom_minimum_size = Vector2(16, 16)
+offset_left = 4395.0
+offset_top = 217.0
+offset_right = 4411.0
+offset_bottom = 233.0
+color = Color(0.32052588, 0.3084494, 0.33082968, 1)

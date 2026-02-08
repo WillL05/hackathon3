@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://cyislcxc08pqb"]
+
+[ext_resource type="Texture2D" uid="uid://cqnpjqttaekkp" path="res://character assets/Villager/SpriteSheet.png" id="1_6xvi5"]
+[ext_resource type="Script" uid="uid://8s2j523jv0nr" path="res://scenes/npc.gd" id="1_ktgr7"]
+[ext_resource type="PackedScene" uid="uid://b31dwpxlghhq7" path="res://interaction/interaction_area/interaction_area.tscn" id="2_ktgr7"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_jnjht"]
+radius = 35.0
+
+[node name="Npc" type="Node2D" unique_id=1347668538]
+scale = Vector2(4, 4)
+script = ExtResource("1_ktgr7")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=674775751]
+texture = ExtResource("1_6xvi5")
+hframes = 4
+vframes = 7
+
+[node name="InteractionArea" parent="." unique_id=763219192 instance=ExtResource("2_ktgr7")]
+action_name = "talk"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractionArea" unique_id=850370953]
+position = Vector2(1, 1)
+shape = SubResource("CircleShape2D_jnjht")
